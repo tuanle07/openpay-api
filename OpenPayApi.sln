@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenPayApi.Tests", "OpenPayApi.Tests\OpenPayApi.Tests.csproj", "{EA3144E9-DBC3-40E2-953B-10EFFB2DFD6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenPayApi", "OpenPayApi\OpenPayApi.csproj", "{EEE677B2-B92F-4185-862F-159983522A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3144E9-DBC3-40E2-953B-10EFFB2DFD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3144E9-DBC3-40E2-953B-10EFFB2DFD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3144E9-DBC3-40E2-953B-10EFFB2DFD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3144E9-DBC3-40E2-953B-10EFFB2DFD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE677B2-B92F-4185-862F-159983522A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE677B2-B92F-4185-862F-159983522A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE677B2-B92F-4185-862F-159983522A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE677B2-B92F-4185-862F-159983522A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FBA76A-5EC7-4630-B004-BCF59810B1F7}
+	EndGlobalSection
+EndGlobal
